@@ -1,7 +1,7 @@
 # Counter
 
 ## 🌐 Hosted Link  
-Access the live project here: [counter](https://your-project-link.com)
+Access the live project here: [counter](https://counterdivyash.netlify.app)
 
 ---
 

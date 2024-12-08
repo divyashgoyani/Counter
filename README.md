@@ -1,9 +1,7 @@
-# Project Name  
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+# Counter
 
 ## 🌐 Hosted Link  
-Access the live project here: [Your Project Name](https://your-project-link.com)
+Access the live project here: [counter](https://your-project-link.com)
 
 ---
 
@@ -22,9 +20,7 @@ A brief description of your project. Example:
 
 ## 📸 Screenshots  
 ### Homepage  
-![Homepage Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder)  
-### Another Page  
-![Page Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder)  
+![Homepage Screenshot](https://github.com/divyashgoyani/Library/blob/main/Portfolio/counter.png)
 
 ---
 
